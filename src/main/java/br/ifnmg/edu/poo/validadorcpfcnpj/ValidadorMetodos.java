@@ -1,7 +1,7 @@
 package br.ifnmg.edu.poo.validadorcpfcnpj;
 
 /**
- *
+ * Classe que contém os métodos responsáveis pela validação de CPF's e CNPJ's.
  * @author André (@andref03)
  */
 public class ValidadorMetodos {
